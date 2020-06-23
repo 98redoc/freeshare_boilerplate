@@ -1,0 +1,7 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+flask-restplus
+python-dotenv
+Werkzeug==0.15.3
